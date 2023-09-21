@@ -1,6 +1,6 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@article{su2022name,
+  title={Name Your Colour For the Task: Artificially Discover Colour Naming via Colour Quantisation Transformer},
+  author={Su, Shenghan and Gu, Lin and Cui, Ziteng and Yang, Yue and Shen, Jingjing and Yamane, Hiroaki and Zhang, Zenghui and Harada, Tatsuya},
+  journal={arXiv preprint arXiv:2212.03434},
+  year={2022}
 }
